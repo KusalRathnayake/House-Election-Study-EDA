@@ -1,6 +1,6 @@
 # Exploratory Data Analysis for the district level Socio-Economic data of each State in US
 
-### The objective of this EDA is to identify the distribution pattern of each socio-economic variable with respect to each state and the corresponding congressional district.
+### The objective of this EDA is to identify the distribution pattern of 10 socio-economic variables with respect to each state and the corresponding congressional district.
 
 #### The general outline of this notebook is as follows:
 1. Explore the demographic differences in each district within a state
